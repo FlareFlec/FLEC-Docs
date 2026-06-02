@@ -11,9 +11,9 @@ Official public documentation repository for the FLEC ecosystem.
 
 ## Official Links
 
-- Website: Coming Soon
-- X: Coming Soon
+- Website: Under Development
+- X: https://x.com/flareflec
 
 ## About FLEC
 
-FLEC is a community-driven ecosystem built around education, participation, NFTs, and future interactive experiences within the Flare ecosystem.
+FLEC is a community-driven ecosystem inspired by participation, education, culture, NFTs, and future interactive experiences built within the Flare ecosystem.
