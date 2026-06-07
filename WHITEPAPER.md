@@ -6,7 +6,7 @@
 
 FLEC (Flare • LATAM • Evolution • Community) is a community-driven initiative built within the Flare ecosystem. It aims to encourage participation, education, collaboration, and the development of digital experiences that strengthen connections within the community.
 
-FLEC is built upon four fundamental pillars:
+FLEC is built on four fundamental pillars:
 
 ### Flare
 
@@ -40,7 +40,7 @@ Digital collectibles represent an important part of FLEC, offering new ways for 
 
 ## Future Interactive Experiences
 
-FLEC intends to explore interactive experiences that promote participation, creativity, and meaningful engagement as the ecosystem continues to develop.
+FLEC aims to explore interactive experiences that promote participation, creativity, and meaningful engagement as the ecosystem develops.
 
 ---
 
