@@ -28,14 +28,11 @@ Centered around participation, collaboration, and shared contributions.
 
 ## The FLEC Ecosystem
 
-The FLEC ecosystem brings together community initiatives, the FLEC token, digital collectibles, and future interactive experiences designed to encourage engagement and long-term participation within the Flare ecosystem.
-
----
+The FLEC ecosystem brings together community initiatives, the FLEC token, digital collectibles, and future interactive experiences. Planned digital collectibles, including the Genesis Pod collection and its future evolution system, are intended to encourage participation, creativity, and long-term engagement within the Flare ecosystem.
 
 ## NFTs and Digital Collectibles
 
-Digital collectibles represent an important part of FLEC, offering new ways for participants to engage with the ecosystem and future experiences while reflecting creativity and community involvement.
-
+Digital collectibles represent an important part of FLEC. The Genesis Pod collection serves as the foundation for future collectible experiences, including planned evolution paths designed to encourage participation, creativity, and community involvement.
 ---
 
 ## Future Interactive Experiences
@@ -82,14 +79,13 @@ Centrado en la participación, la colaboración y las contribuciones compartidas
 
 ## El Ecosistema FLEC
 
-El ecosistema FLEC reúne iniciativas comunitarias, el token FLEC, coleccionables digitales y futuras experiencias interactivas diseñadas para fomentar la participación y el compromiso a largo plazo dentro del ecosistema Flare.
+El ecosistema FLEC reúne iniciativas comunitarias, el token FLEC, coleccionables digitales y futuras experiencias interactivas. Los coleccionables digitales planificados, incluida la colección Genesis Pod y su futuro sistema de evolución, están diseñados para fomentar la participación, la creatividad y el compromiso a largo plazo dentro del ecosistema Flare.
 
 ---
 
 ## NFTs y Coleccionables Digitales
 
-Los coleccionables digitales representan una parte importante de FLEC, ofreciendo nuevas formas para que los participantes interactúen con el ecosistema y futuras experiencias, al tiempo que reflejan creatividad y participación comunitaria.
-
+Los coleccionables digitales representan una parte importante de FLEC. La colección Genesis Pod sirve como base para futuras experiencias coleccionables, incluyendo rutas de evolución planificadas diseñadas para fomentar la participación, la creatividad y el compromiso comunitario.
 ---
 
 ## Futuras Experiencias Interactivas
@@ -100,7 +96,7 @@ FLEC busca explorar experiencias interactivas que promuevan la participación, l
 
 ## Descargo de Responsabilidad
 
-La información proporcionada a través del sitio web de FLEC, la documentación pública y los materiales relacionados tiene únicamente fines informativos y no debe interpretarse como asesoramiento financiero, de inversión o legal.
+La información proporcionada a través del sitio web de FLEC, la documentación pública y los materiales relacionados tienen únicamente fines informativos y no deben interpretarse como asesoramiento financiero, de inversión o legal.
 
 FLEC es una iniciativa impulsada por la comunidad, y la información presentada puede evolucionar a medida que el proyecto se desarrolla. La participación en activos digitales y actividades relacionadas con blockchain implica riesgos, por lo que las personas deben realizar su propia investigación antes de tomar cualquier decisión.
 
