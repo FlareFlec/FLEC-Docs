@@ -52,3 +52,7 @@ FLEC is a community-driven initiative, and information presented may evolve as t
 
 *Nothing in this documentation should be considered a promise or guarantee regarding future features, developments, or outcomes of the FLEC ecosystem.*
 
+
+---
+
+## Español
