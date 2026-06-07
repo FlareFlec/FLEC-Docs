@@ -56,3 +56,53 @@ FLEC is a community-driven initiative, and information presented may evolve as t
 ---
 
 ## Español
+
+## ¿Qué es FLEC?
+
+FLEC (Flare • LATAM • Evolution • Community) es una iniciativa impulsada por la comunidad dentro del ecosistema Flare. Su objetivo es fomentar la participación, la educación, la colaboración y el desarrollo de experiencias digitales que fortalezcan las conexiones dentro de la comunidad.
+
+FLEC se basa en cuatro pilares fundamentales:
+
+### Flare
+
+Construido sobre la red Flare, una infraestructura diseñada para conectar comunidades, activos e innovación.
+
+### LATAM
+
+Con raíces en Latinoamérica y abierto a una audiencia global de Web3.
+
+### Evolution
+
+Enfocado en el crecimiento, la innovación y la adaptación junto con el ecosistema.
+
+### Comunidad
+
+Centrado en la participación, la colaboración y las contribuciones compartidas.
+---
+
+## El Ecosistema FLEC
+
+El ecosistema FLEC reúne iniciativas comunitarias, el token FLEC, coleccionables digitales y futuras experiencias interactivas diseñadas para fomentar la participación y el compromiso a largo plazo dentro del ecosistema Flare.
+
+---
+
+## NFTs y Coleccionables Digitales
+
+Los coleccionables digitales representan una parte importante de FLEC, ofreciendo nuevas formas para que los participantes interactúen con el ecosistema y futuras experiencias, al tiempo que reflejan creatividad y participación comunitaria.
+
+---
+
+## Futuras Experiencias Interactivas
+
+FLEC busca explorar experiencias interactivas que promuevan la participación, la creatividad y un compromiso significativo a medida que el ecosistema evoluciona.
+
+---
+
+## Descargo de Responsabilidad
+
+La información proporcionada a través del sitio web de FLEC, la documentación pública y los materiales relacionados tiene únicamente fines informativos y no debe interpretarse como asesoramiento financiero, de inversión o legal.
+
+FLEC es una iniciativa impulsada por la comunidad, y la información presentada puede evolucionar a medida que el proyecto se desarrolla. La participación en activos digitales y actividades relacionadas con blockchain implica riesgos, por lo que las personas deben realizar su propia investigación antes de tomar cualquier decisión.
+
+*Nada de lo contenido en esta documentación debe considerarse una promesa o garantía respecto a futuras características, desarrollos o resultados del ecosistema FLEC.*
+
