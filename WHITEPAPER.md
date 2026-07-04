@@ -2,110 +2,238 @@
 
 ## English
 
-## What is FLEC?
+### What Is FLEC?
 
-FLEC (Flare • LATAM • Evolution • Community) is a community-driven initiative built within the Flare ecosystem. It aims to encourage participation, education, collaboration, and the development of digital experiences that strengthen connections within the community.
+FLEC stands for **Flare, LATAM, Evolution, and Community**.
 
-FLEC is built on four fundamental pillars:
+FLEC is a community-driven initiative created to help Spanish-speaking users across Latin America discover Flare, understand its ecosystem, and participate with greater knowledge, safety, and confidence.
 
-### Flare
+The project brings together education, community onboarding, ecosystem discovery, the FLEC community token, and future digital experiences under a long-term vision centered on responsible participation.
 
-Built on Flare Network, embracing infrastructure that connects communities, assets, and innovation.
+### Why FLEC Exists
 
-### LATAM
+Many Spanish-speaking users across Latin America continue to face barriers when learning about and participating in blockchain ecosystems.
 
-Rooted in Latin America while remaining open to a global Web3 audience.
+These barriers may include:
 
-### Evolution
+- limited beginner-friendly educational resources;
+- language gaps;
+- fragmented information;
+- insufficient wallet-safety guidance;
+- unclear pathways for discovering and understanding ecosystem applications.
 
-Focused on growth, innovation, and adapting alongside the ecosystem.
+FLEC was created to help reduce these barriers through accessible education, safer onboarding, community support, and clearer connections between Spanish-speaking users and the broader Flare ecosystem.
 
-### Community
+### Vision
 
-Centered around participation, collaboration, and shared contributions.
+FLEC’s vision is to become a Spanish-first educational and community hub for the Flare ecosystem.
+
+The project aims to create an accessible pathway where users can:
+
+- learn about Flare;
+- understand wallet and transaction safety;
+- discover applications within the ecosystem;
+- participate in educational and community programs;
+- explore future digital experiences responsibly.
+
+FLEC also seeks to help Flare projects connect with Spanish-speaking communities through education, collaboration, and accessible onboarding.
+
+FLEC does not seek to replace existing applications, projects, or communities. Its role is to help users understand them, discover them, and approach them with better preparation.
+
+### FLEC Hub
+
+FLEC Hub is intended to become the central educational and community access point of the FLEC ecosystem.
+
+Its long-term role is to provide Spanish-first learning experiences that help users understand Flare, improve wallet safety, discover ecosystem applications, and participate with greater confidence.
+
+FLEC Hub may include:
+
+- progressive learning modules;
+- structured educational pathways;
+- community workshops;
+- project tutorials;
+- learning-progress tools;
+- collaborations with teams across the Flare ecosystem.
+
+The objective is to make education more practical, accessible, and connected to meaningful participation within the ecosystem.
+
+### Colibri Genesis and NFT Evolution
+
+The Colibri Genesis journey begins with the **Genesis Pod**, represented in its first stage as **OVO**.
+
+OVO symbolizes the beginning of the user’s journey within the FLEC ecosystem. It is designed as a digital collectible that may evolve as the user learns, participates, and develops a stronger connection with the community.
+
+The planned evolution path is:
+
+**OVO → Nest → Feathers → Flight → Guardian**
+
+Each stage is intended to represent growth, identity, participation, and long-term connection with FLEC.
+
+Any future NFT sale, evolution mechanism, utility, or reward will require appropriate technical, security, operational, and legal review before implementation.
+
+### Future Infrastructure and Security Vision
+
+FLEC intends to evolve alongside Flare and explore responsible ways to incorporate emerging network capabilities into its long-term development.
+
+Through FLEC Hub, the project may explore future uses of **Flare Confidential Compute (FCC)** to support privacy, eligibility verification, fraud prevention, and other security-sensitive processes.
+
+Any implementation involving FCC would require technical validation, security review, and alignment with Flare’s infrastructure and development standards.
+
+FLEC may also explore community-focused **RPC infrastructure** to improve regional access, education, testing, and technical support for users and builders across Latin America.
+
+As the project develops the necessary technical capacity, operational experience, and sustainable resources, FLEC may evaluate future participation in the **Flare Time Series Oracle (FTSO)**.
+
+The long-term ambition is to contribute to the development of one of the earliest community-led FTSO initiatives operating from LATAM, if technically, operationally, economically, and legally viable.
+
+These objectives reflect FLEC’s commitment to grow alongside Flare, contribute to regional infrastructure, and improve accessibility, security, and participation for Spanish-speaking communities.
+
+### Development Status
+
+FLEC is under active development.
+
+Some concepts described in this document represent long-term objectives and may change as the project, technology, and Flare ecosystem evolve.
+
+No feature, utility, partnership, reward, NFT experience, infrastructure service, FCC integration, RPC operation, or FTSO participation should be considered active or guaranteed unless formally announced through official FLEC channels.
+
+### Disclaimer
+
+This document is provided for informational and educational purposes only.
+
+Nothing contained in this document should be interpreted as financial, investment, legal, tax, or regulatory advice.
+
+FLEC does not guarantee:
+
+- financial returns;
+- token or NFT value;
+- rewards;
+- access to future services;
+- partnerships;
+- development timelines;
+- infrastructure implementation;
+- future functionality.
+
+Users should conduct their own research, verify official sources, review wallet interactions carefully, and never share private keys or recovery phrases.
 
 ---
 
-## The FLEC Ecosystem
-
-The FLEC ecosystem brings together community initiatives, the FLEC token, digital collectibles, and future interactive experiences. Planned digital collectibles, including the Genesis Pod collection and its future evolution framework, are designed to encourage participation, creativity, and long-term engagement within the Flare ecosystem.
-
----
-
-## NFTs and Digital Collectibles
-
-Digital collectibles represent an important part of FLEC. The Genesis Pod collection serves as the foundation for future collectible experiences, including planned evolution paths intended to encourage participation, creativity, and community engagement.
-
----
-
-## Future Interactive Experiences
-
-FLEC aims to explore interactive experiences that promote participation, creativity, and meaningful engagement as the ecosystem develops.
-
----
-
-## Disclaimer
-
-The information provided throughout the FLEC website, public documentation, and related materials is intended for informational purposes only and should not be interpreted as financial, investment, or legal advice.
-
-FLEC is a community-driven initiative, and information presented may evolve as the project develops. Participation in digital assets and blockchain-related activities involves risk, and individuals should conduct their own research before making any decisions.
-
-*Nothing in this documentation should be considered a promise or guarantee regarding future features, developments, or outcomes of the FLEC ecosystem.*
-
+*A LATAM community initiative guided by FlareColombia, created by CryptoView.*
 
 ---
 
 ## Español
 
-## ¿Qué es FLEC?
+### ¿Qué es FLEC?
 
-FLEC (Flare • LATAM • Evolution • Community) es una iniciativa impulsada por la comunidad dentro del ecosistema Flare. Su objetivo es fomentar la participación, la educación, la colaboración y el desarrollo de experiencias digitales que fortalezcan las conexiones dentro de la comunidad.
+FLEC representa **Flare, LATAM, Evolution y Community**.
 
-FLEC se basa en cuatro pilares fundamentales:
+FLEC es una iniciativa impulsada por la comunidad, creada para ayudar a los usuarios hispanohablantes de Latinoamérica a descubrir Flare, comprender su ecosistema y participar con mayor conocimiento, seguridad y confianza.
 
-### Flare
+El proyecto reúne educación, incorporación comunitaria, descubrimiento del ecosistema, el token comunitario FLEC y futuras experiencias digitales bajo una visión de largo plazo centrada en la participación responsable.
 
-Construido sobre la red Flare, una infraestructura diseñada para conectar comunidades, activos e innovación.
+### Por Qué Existe FLEC
 
-### LATAM
+Muchos usuarios hispanohablantes de Latinoamérica continúan enfrentando barreras al aprender sobre los ecosistemas blockchain y participar en ellos.
 
-Con raíces en Latinoamérica y abierto a una audiencia global de Web3.
+Estas barreras pueden incluir:
 
-### Evolution
+- recursos educativos limitados para principiantes;
+- diferencias de idioma;
+- información fragmentada;
+- orientación insuficiente sobre seguridad de billeteras;
+- falta de rutas claras para descubrir y comprender las aplicaciones del ecosistema.
 
-Enfocado en el crecimiento, la innovación y la adaptación junto con el ecosistema.
+FLEC fue creado para ayudar a reducir estas barreras mediante educación accesible, incorporación más segura, apoyo comunitario y conexiones más claras entre los usuarios hispanohablantes y el ecosistema Flare.
 
-### Comunidad
+### Visión
 
-Centrado en la participación, la colaboración y las contribuciones compartidas.
+La visión de FLEC es convertirse en un centro educativo y comunitario en español para el ecosistema Flare.
+
+El proyecto busca crear una ruta accesible donde los usuarios puedan:
+
+- aprender sobre Flare;
+- comprender la seguridad de billeteras y transacciones;
+- descubrir aplicaciones dentro del ecosistema;
+- participar en programas educativos y comunitarios;
+- explorar futuras experiencias digitales de manera responsable.
+
+FLEC también busca ayudar a los proyectos de Flare a conectar con comunidades hispanohablantes mediante educación, colaboración e incorporación accesible.
+
+FLEC no busca reemplazar aplicaciones, proyectos o comunidades existentes. Su función es ayudar a los usuarios a comprenderlos, descubrirlos y acercarse a ellos con una mejor preparación.
+
+### FLEC Hub
+
+FLEC Hub está destinado a convertirse en el principal punto de acceso educativo y comunitario del ecosistema FLEC.
+
+Su función a largo plazo es ofrecer experiencias de aprendizaje en español que ayuden a los usuarios a comprender Flare, mejorar la seguridad de sus billeteras, descubrir aplicaciones del ecosistema y participar con mayor confianza.
+
+FLEC Hub podrá incluir:
+
+- módulos de aprendizaje progresivo;
+- rutas educativas estructuradas;
+- talleres comunitarios;
+- tutoriales de proyectos;
+- herramientas de seguimiento del aprendizaje;
+- colaboraciones con equipos del ecosistema Flare.
+
+El objetivo es hacer que la educación sea más práctica, accesible y conectada con una participación significativa dentro del ecosistema.
+
+### Colibri Genesis y Evolución NFT
+
+La experiencia Colibri Genesis comienza con el **Genesis Pod**, representado en su primera etapa como **OVO**.
+
+OVO simboliza el inicio del recorrido del usuario dentro del ecosistema FLEC. Está diseñado como un coleccionable digital que podrá evolucionar a medida que el usuario aprende, participa y desarrolla una conexión más fuerte con la comunidad.
+
+La ruta de evolución planificada es:
+
+**OVO → Nest → Feathers → Flight → Guardian**
+
+Cada etapa busca representar crecimiento, identidad, participación y conexión a largo plazo con FLEC.
+
+Cualquier futura venta NFT, mecanismo de evolución, utilidad o recompensa requerirá una revisión técnica, de seguridad, operativa y legal antes de su implementación.
+
+### Visión Futura de Infraestructura y Seguridad
+
+FLEC busca evolucionar junto con Flare y explorar formas responsables de incorporar las capacidades emergentes de la red dentro de su desarrollo a largo plazo.
+
+A través de FLEC Hub, el proyecto podrá explorar futuros usos de **Flare Confidential Compute (FCC)** para apoyar la privacidad, la verificación de elegibilidad, la prevención de fraude y otros procesos sensibles de seguridad.
+
+Cualquier implementación relacionada con FCC requerirá validación técnica, revisión de seguridad y alineación con la infraestructura y los estándares de desarrollo de Flare.
+
+FLEC también podrá explorar infraestructura **RPC comunitaria** para mejorar el acceso regional, la educación, las pruebas y el apoyo técnico para usuarios y desarrolladores en Latinoamérica.
+
+A medida que el proyecto desarrolle la capacidad técnica, la experiencia operativa y los recursos sostenibles necesarios, FLEC podrá evaluar una futura participación en el **Flare Time Series Oracle (FTSO)**.
+
+La ambición a largo plazo es contribuir al desarrollo de una de las primeras iniciativas FTSO impulsadas por la comunidad y operadas desde LATAM, siempre que sea técnica, operativa, económica y legalmente viable.
+
+Estos objetivos reflejan el compromiso de FLEC de crecer junto con Flare, contribuir a la infraestructura regional y mejorar la accesibilidad, la seguridad y la participación de las comunidades hispanohablantes.
+
+### Estado de Desarrollo
+
+FLEC se encuentra en desarrollo activo.
+
+Algunos conceptos descritos en este documento representan objetivos a largo plazo y pueden cambiar a medida que evolucionen el proyecto, la tecnología y el ecosistema Flare.
+
+Ninguna función, utilidad, alianza, recompensa, experiencia NFT, servicio de infraestructura, integración con FCC, operación RPC o participación en el FTSO debe considerarse activa o garantizada salvo que haya sido anunciada formalmente mediante los canales oficiales de FLEC.
+
+### Descargo de Responsabilidad
+
+Este documento se proporciona únicamente con fines informativos y educativos.
+
+Nada de lo contenido en este documento debe interpretarse como asesoramiento financiero, de inversión, legal, fiscal o regulatorio.
+
+FLEC no garantiza:
+
+- retornos financieros;
+- valor del token o de los NFTs;
+- recompensas;
+- acceso a futuros servicios;
+- alianzas;
+- plazos de desarrollo;
+- implementación de infraestructura;
+- funcionalidades futuras.
+
+Los usuarios deben realizar su propia investigación, verificar las fuentes oficiales, revisar cuidadosamente las interacciones con sus billeteras y nunca compartir claves privadas ni frases de recuperación.
 
 ---
 
-## El Ecosistema FLEC
-
-El ecosistema FLEC reúne iniciativas comunitarias, el token FLEC, coleccionables digitales y futuras experiencias interactivas. Los coleccionables digitales planificados, incluida la colección Genesis Pod y sus futuras rutas de evolución, están diseñados para fomentar la creatividad, el compromiso comunitario y la participación a largo plazo dentro del ecosistema Flare.  
-
----
-
-## NFTs y Coleccionables Digitales
-
-Los coleccionables digitales representan una parte importante de FLEC.
-
-La colección Genesis Pod sirve como punto de partida para futuras experiencias coleccionables, incluyendo rutas de evolución planificadas diseñadas para fomentar la creatividad, el compromiso comunitario y la participación a largo plazo.
-
----
-
-## Futuras Experiencias Interactivas
-
-FLEC busca explorar experiencias interactivas que promuevan la participación, la creatividad y un compromiso significativo a medida que el ecosistema evoluciona.
-
----
-
-## Descargo de Responsabilidad
-
-La información proporcionada a través del sitio web de FLEC, la documentación pública y los materiales relacionados tienen únicamente fines informativos y no deben interpretarse como asesoramiento financiero, de inversión o legal.
-
-FLEC es una iniciativa impulsada por la comunidad, y la información presentada puede evolucionar a medida que el proyecto se desarrolla. La participación en activos digitales y actividades relacionadas con la tecnología blockchain implica riesgos, por lo que las personas deben realizar su propia investigación antes de tomar cualquier decisión.
-
-*Nada de lo contenido en esta documentación debe considerarse una promesa o garantía respecto a futuras características, desarrollos o resultados del ecosistema FLEC.*
-
+*Una iniciativa comunitaria LATAM guiada por FlareColombia y creada por CryptoView.*
