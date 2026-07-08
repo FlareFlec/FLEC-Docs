@@ -44,22 +44,6 @@ These assets provide project context and are not presented as hackathon delivera
 
 The hackathon implementation focuses on building FLEC Hub, a dedicated guided experience for education, onboarding, and practical participation within the Flare ecosystem.
 
----
-
-## Flare-Specific Work
-
-The hackathon work focuses on adapting FLEC Hub into a Flare-oriented onboarding and educational experience.
-
-Current Flare-specific development includes:
-
-- beginner-friendly education about the Flare ecosystem;
-- a guided learning journey connected to Flare concepts;
-- wallet onboarding designed for Flare participation;
-- an optional MetaMask and Coston2 interaction flow;
-- a practical pathway from education to ecosystem participation.
-
-Items still in development are not presented as completed integrations.
-
 ### Completed
 
 - ✅ FLEC Hub application foundation established
@@ -81,6 +65,22 @@ Items still in development are not presented as completed integrations.
 - ⏳ Simulated OVO educational experience
 - ⏳ Nest completion journey
 - ⏳ Final POP Demo experience
+
+---
+
+## Flare-Specific Work
+
+The hackathon work focuses on adapting FLEC Hub into a Flare-oriented onboarding and educational experience.
+
+Current Flare-specific development includes:
+
+- beginner-friendly education about the Flare ecosystem;
+- a guided learning journey connected to Flare concepts;
+- wallet onboarding designed for Flare participation;
+- an optional MetaMask and Coston2 interaction flow;
+- a practical pathway from education to ecosystem participation.
+
+Items still in development are not presented as completed integrations.
 
 ---
 
