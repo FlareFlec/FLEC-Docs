@@ -82,7 +82,7 @@ Validation evidence includes:
 - **25/25 focused final technical tests passed**;
 - community validation during the FlareColombia event in Pereira, Colombia.
 
-The official [hackathon demo video](https://www.youtube.com/watch?v=zrfzX0v-cAo) combines a product walkthrough with live community validation in Colombia, showing the product in both technical and community contexts.
+The primary [hackathon demo video](https://youtu.be/LTW8TQMSktY) is the short product demo showing the core education-to-action journey. [Community Validation and Full Walkthrough](https://www.youtube.com/watch?v=zrfzX0v-cAo) combines the complete product walkthrough with the FlareColombia community presentation in Pereira, Colombia.
 
 ## 9. How FLEC Hub Helps Flare
 
@@ -141,7 +141,8 @@ Project links:
 
 - Live application: https://flareflec.xyz/hub
 - DoraHacks: https://dorahacks.io/buidl/46281
-- Demo video: https://www.youtube.com/watch?v=zrfzX0v-cAo
+- Short demo: https://youtu.be/LTW8TQMSktY
+- Community validation and full walkthrough: https://www.youtube.com/watch?v=zrfzX0v-cAo
 - Public documentation: https://github.com/FlareFlec/FLEC-Docs
 - Community: https://linktr.ee/FLAREFLEC
 - X: https://x.com/flareflec
