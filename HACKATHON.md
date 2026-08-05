@@ -124,7 +124,7 @@ Guardian does not promise fixed yield, guaranteed income, automatic payments, pe
 
 The next product stages can deepen the same education-to-action model: continue Coston2 validation, expand partner-ready modules, add broader interoperable-asset experiences, connect appropriate Mainnet FLEC utility, and develop the optional NFT progression and Guardian model under separate review.
 
-The current guided Coston2 faucet experience provides test FXRP for practical application use; the faucet step itself is not presented as the complete production FAssets minting lifecycle. Future versions may expand into user-initiated FAssets minting and redemption, additional interoperable assets, deeper protocol integrations, and Mainnet journeys. FTSO operations and any related Guardian economy also remain future work subject to their own technical, economic, legal, security, and governance validation.
+The current guided Coston2 experience introduces participants to the practical acquisition and use of test FXRP. Future versions may expand this foundation into user-initiated FAssets minting and redemption, additional interoperable assets, deeper protocol integrations, and Mainnet journeys. FTSO operations and any related Guardian economy also remain future work subject to their own technical, economic, legal, security, and governance validation.
 
 ## 13. Deployments and Project Links
 
@@ -148,7 +148,7 @@ Project links:
 
 ## 14. Safety Notice
 
-- TFLEC and the current demo NFT/progression contracts operate on Flare Testnet Coston2; they are separate from the official FLEC token on Flare Mainnet.
+- TFLEC, test FXRP, and the current demo NFT and progression contracts operate on Flare Testnet Coston2 and have no monetary value. They are separate from the official FLEC token on Flare Mainnet.
 - No parity, conversion, exchange, or redemption between TFLEC and official FLEC is promised.
 - Coston2 participation creates no automatic Mainnet right, financial return, governance right, campaign reward, or future entitlement.
 - Future Guardian benefits, if implemented, remain variable, separately defined and funded, and subject to further review.
