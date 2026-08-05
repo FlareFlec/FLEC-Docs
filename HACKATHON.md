@@ -2,341 +2,159 @@
 
 ## 1. Executive Summary
 
-FLEC Hub is a Spanish-first, bilingual education and onboarding application that helps participants move from learning about Flare to completing voluntary, verifiable actions on Flare Testnet Coston2.
+FLEC Hub is a Spanish-first, bilingual education and activation platform that guides people from learning about Flare to voluntary, verifiable actions on Flare Testnet Coston2. The deployed MVP combines wallet safety, Flare/FAssets/FXRP/FTSO lessons, knowledge checks, wallet connection, test assets, a TFLEC educational reward, OVO Genesis and Nest progression, POP, Registry, and Ranking.
 
-During Flare Summer Signal 2026, FLEC Hub evolved from an existing community and education concept into a deployed education-to-action experience. The working MVP combines wallet-safety preparation, bilingual learning about Flare, FAssets, FXRP, and FTSO, knowledge checks, guided wallet connection, a controlled TFLEC educational reward, an OVO Genesis NFT, OVO-to-Nest progression, Proof of Participation, and public recognition surfaces.
+The result is an education-to-action product: participants apply learning with test assets and verify progress on-chain. The MVP is a testnet validation environment: it does not implement the complete production FAssets lifecycle, promise financial returns, or grant automatic Mainnet rights.
 
-The MVP is a testnet education and validation environment. It does not mint production FAssets, execute live production FAsset transactions, promise financial returns, or grant automatic Mainnet rights.
+## 2. Bounty 1 — Interoperable Asset Products
 
-## 2. Selected Hackathon Bounty
+FLEC Hub strengthens FAssets adoption by combining bilingual education with practical use. In the deployed Coston2 MVP, participants learn about FXRP and then use test FXRP to mint an OVO Genesis NFT, creating a verifiable education-to-action journey on Flare.
 
-### Bounty 1 — Interoperable Asset Products
+That flow gives Bounty 1 a functional role in the product:
 
-FLEC Hub’s current contribution is the Spanish-first education, wallet-safety, and verifiable onboarding layer needed to prepare users for interoperable asset products.
+- participants learn what FAssets and FXRP are;
+- they obtain test FXRP through the Coston2 faucet;
+- they use test FXRP to mint an OVO Genesis NFT;
+- the resulting NFT acquisition and ownership are verifiable on Flare Testnet Coston2.
 
-The current MVP teaches:
+The MVP does not implement the complete production FAssets minting and redemption lifecycle. It uses the Coston2 experience to teach the concept and demonstrate practical FXRP utility without presenting testnet activity as production FAssets infrastructure.
 
-- Flare;
-- FAssets;
-- FXRP;
-- FTSO.
+Future integrations may extend FXRP and FAssets into NFT evolutions, accessories, reservations, protocol campaigns, and other interoperable asset experiences. Those extensions remain roadmap items rather than current hackathon claims.
 
-It does not claim to mint production FAssets or execute live production FAsset transactions. Deeper FAssets and FXRP interactions belong to the future roadmap.
+## 3. Problem and Solution
 
-### Bounty 2 — Confidential Compute Apps
+Spanish-speaking and mobile-first users can face a gap between understanding Web3 concepts and safely using them. Education is often separated from execution, wallet steps add friction, and ecosystem teams need repeatable, safe ways to activate communities.
 
-Confidential Compute Apps are identified only as a possible future exploration. They are not the selected bounty and are not part of the current implementation.
+FLEC Hub closes that gap with one bilingual journey: teach first, check understanding, introduce wallet safety, then practice voluntarily on Coston2. The structure can be reused for workshops and partner onboarding.
 
-## 3. Problem
+## 4. What Was Built
 
-Spanish-speaking users often encounter four connected barriers when entering a blockchain ecosystem:
+The hackathon MVP includes:
 
-1. Important concepts and product documentation are not always localized for beginners.
-2. Education and execution are separated, leaving users unsure how to apply what they learned.
-3. Wallet, network, approval, and transaction mistakes create avoidable security risks.
-4. Ecosystem teams need a reusable way to educate and activate Spanish-speaking communities while measuring participation responsibly.
-
-These barriers are especially visible in mobile-first communities and in workshops where participants have different levels of wallet and testnet experience.
-
-## 4. Solution
-
-FLEC Hub turns fragmented onboarding into one guided journey. It teaches first, introduces wallet safety before blockchain actions, provides review and retry paths, and then lets participants voluntarily practice on Coston2.
-
-The experience combines:
-
-- Spanish-first content with a synchronized English journey;
+- synchronized Spanish and English education covering Flare, FAssets, FXRP and FTSO;
+- wallet-safety preparation, bilingual knowledge checks, review and retry;
 - a guided FLEC character and browser voice tutor;
-- wallet-safety preparation;
-- bilingual lessons and knowledge checks;
-- MetaMask and Bifrost Wallet connection paths;
+- MetaMask support and Bifrost through WalletConnect;
 - Coston2 network and test-asset guidance;
-- server-authorized TFLEC educational claims;
-- verifiable OVO and Nest milestones;
-- persistent progress and public recognition surfaces.
+- a controlled TFLEC educational reward with server authorization;
+- an FXRP-based OVO Genesis NFT mint and on-chain ownership verification;
+- OVO-to-Nest progression with contract-state restoration;
+- Proof of Participation, OVO Registry, verified-participant Ranking, and persistent progress.
 
-## 5. Target Users
+Architecture is compact: a bilingual browser experience connects to wallets, controlled services handle progress and reward authorization, and Coston2 contracts provide verifiable asset and progression state. Public documentation excludes credentials, secrets, and private operational details.
 
-FLEC Hub is designed for:
+## 5. Education-to-Action Journey
 
-- Spanish-speaking users discovering Flare and its protocols;
-- mobile-first community members who need guided wallet support;
-- learners who understand basic crypto concepts but have limited testnet experience;
-- participants in workshops, community events, and protocol onboarding campaigns;
-- Flare ecosystem teams seeking localized education and measurable activation in Latin America.
+The deployed journey is:
 
-## 6. Baseline Before the Hackathon
+1. Choose Spanish or English and review wallet-safety guidance.
+2. Learn about Flare, FAssets, FXRP and FTSO, then complete knowledge checks.
+3. Connect a supported wallet and confirm Coston2.
+4. Obtain the required Coston2 test assets, including test FXRP from the faucet.
+5. Complete the controlled educational reward step.
+6. Use test FXRP to mint the OVO Genesis NFT and verify on-chain ownership.
+7. Progress from OVO to Nest and restore that state from the contract.
+8. Complete POP and appear in the Registry and eligible Ranking surfaces.
 
-Before the active hackathon implementation period, the project already had:
+Blockchain actions are voluntary. Foundational education does not require participation in the optional NFT progression.
 
-- the FLEC ecosystem concept;
-- a public documentation repository;
-- a whitepaper;
-- tokenomics;
-- a public roadmap and FAQ;
-- community identity and long-term vision;
-- a public FLEC website foundation.
+## 6. How FLEC Hub Uses Flare
 
-These assets provide project context. They are not presented as work created during Flare Summer Signal 2026.
+Coston2 is the MVP’s education and validation laboratory. FLEC Hub connects wallets to testnet actions, uses test FXRP as a functional input to the OVO Genesis experience, records NFT ownership and Nest progression on-chain, and restores verifiable state when a participant returns.
 
-## 7. New Work Built During the Hackathon
+TFLEC provides a separate controlled educational reward path. Receipts, events, token identity, ownership, and progression state provide verifiable evidence. Production FAssets minting and redemption remain outside the current MVP scope.
 
-During Flare Summer Signal 2026, FLEC Hub became a deployed working MVP with:
+## 7. Testing and Validation
 
-- a Spanish-first bilingual experience;
-- complete English and Spanish journeys;
-- wallet-safety preparation before blockchain actions;
-- educational modules about Flare, FAssets, FXRP, and FTSO;
-- bilingual knowledge checks;
-- explanations, review, and retry;
-- a guided FLEC character;
-- a browser voice tutor;
-- MetaMask desktop support;
-- MetaMask mobile support;
-- Bifrost Wallet support through WalletConnect;
-- Coston2 network validation;
-- a controlled TFLEC educational reward;
-- an EIP-712 server-authorized TFLEC claim;
-- an OVO Genesis ERC-721;
-- transaction receipt verification;
-- contract event verification;
-- token ID verification;
-- owner verification through `ownerOf`;
-- OVO-to-Nest progression;
-- contract-state restoration;
-- a Nest reveal;
-- Proof of Participation;
-- an OVO Registry;
-- a public Ranking;
-- a POP Wall of Merit;
-- persistent participant progress;
-- private beta access;
-- a production database;
-- a deployed domain.
+Validation covered:
 
-## 8. Current Participant Journey
+- desktop and mobile testing;
+- MetaMask and Bifrost through WalletConnect physically tested;
+- Spanish and English journeys validated;
+- community testing during the FlareColombia event in Pereira, Colombia;
+- 25/25 focused final technical tests passed;
+- 8 verified OVO demo journeys;
+- confirmed FXRP-based OVO mint flow;
+- confirmed OVO ownership, Nest progression, POP restoration, Registry, and Ranking.
 
-The complete guided demo journey is:
+The eight demo journeys verify completed flows; they are not automatically eight unique commercial users or a large-scale capacity test.
 
-1. Enter the private beta.
-2. Select Spanish or English.
-3. Review wallet-safety rules.
-4. Learn about Flare.
-5. Learn about FAssets.
-6. Learn about FXRP.
-7. Learn about FTSO.
-8. Complete bilingual knowledge checks.
-9. Connect MetaMask or Bifrost Wallet.
-10. Confirm Coston2.
-11. Obtain the required Coston2 test assets.
-12. Claim 50 TFLEC.
-13. Obtain and verify an OVO Genesis NFT.
-14. Progress from OVO to Nest.
-15. Complete Proof of Participation.
-16. Appear in the OVO Registry.
-17. Appear in the verified-participant Ranking.
+The official [hackathon demo video](https://www.youtube.com/watch?v=zrfzX0v-cAo) combines a product walkthrough with live community validation in Colombia.
 
-All blockchain actions are voluntarily initiated by the participant. Foundational education can be completed without treating the optional NFT progression as a commercial requirement.
+## 8. How FLEC Hub Helps Flare
 
-## 9. How FLEC Hub Uses Flare
+FLEC Hub turns ecosystem awareness into measurable participation. It:
 
-FLEC Hub uses Flare Testnet Coston2 as an education and validation laboratory. The deployed demo connects learning to transparent testnet evidence through:
+- expands access through a Spanish-first bilingual journey;
+- makes FAssets and FXRP tangible through a real Coston2 asset action;
+- reduces friction with safety guidance and supported wallet flows;
+- gives protocols, wallets, educators, and communities reusable localized onboarding;
+- supports privacy-conscious aggregate campaign signals.
 
-- Coston2 network validation;
-- wallet-based participant actions;
-- a controlled TFLEC test-token reward;
-- EIP-712 server authorization for the TFLEC claim;
-- an ERC-721 OVO Genesis milestone;
-- receipt, event, token ID, and `ownerOf` verification;
-- an on-chain OVO-to-Nest progression record;
-- restoration from contract state after reload or return.
+The result is a pathway from learning to safe, verifiable use.
 
-Flare, FAssets, FXRP, and FTSO are taught as core ecosystem concepts. The current product prepares participants for interoperable asset products but does not perform production FAsset minting or live production FAsset transactions.
+## 9. Future Economy and Business Model
 
-## 10. Technical Architecture
+FLEC Hub is designed as a B2B2C education and activation platform. Potential customers and partners include Flare ecosystem protocols, wallets, infrastructure providers, sponsors, universities, educational organizations, and LATAM Web3 communities.
 
-The deployed experience is organized into five functional layers:
+Potential revenue streams include sponsored educational modules, protocol-specific onboarding, Spanish localization, audiovisual educational production, wallet onboarding services, workshops and community programs, recurring ecosystem partnerships, and privacy-conscious aggregate campaign reporting. Partner-funded participant rewards remain separate from FLEC Hub operating revenue and are governed by the terms of each campaign.
 
-1. **Guided bilingual application:** Spanish and English content, progressive sections, knowledge checks, review, retry, and the FLEC character.
-2. **Browser assistance:** voice-tutor support with all educational content remaining visually accessible.
-3. **Wallet connectivity:** MetaMask on desktop and mobile, plus Bifrost Wallet through WalletConnect.
-4. **Controlled application services:** private beta access, persistent participant progress, production database records, and EIP-712 reward authorization.
-5. **Coston2 verification:** token and NFT contracts, transaction receipt checks, event checks, token ID checks, `ownerOf` checks, progression state, and restoration.
+The official FLEC token already exists on Flare Mainnet:
 
-The public documentation intentionally excludes secrets, credentials, private operational details, and the complete private application source.
+0xb71E9a49a3151484753eacF9513b6876C6BEa62b
 
-## 11. Coston2 Deployments
+FLEC may support community participation, optional NFT progression, personalization, protocol campaigns, ecosystem activations, and future FLEC Hub services. This is a utility direction, not a promise of price, conversion, redemption, income, or automatic benefits.
+
+Optional NFT progression is envisioned as:
+
+**OVO → Nest → Feathers → Flight → Guardian**
+
+These NFTs may represent identity, progress, recognition, personalization, participation, and verifiable educational history. They are not required for foundational education.
+
+Guardian is an essential future identity, participation, education, and recognition layer connected to the planned FLEC FTSO operation and broader FLEC economy. Fully evolved Guardian NFTs may become eligible for variable and discretionary ecosystem benefits, including campaign-specific rewards, sponsor-funded benefits, randomized airdrops, and distributions funded from separately allocated portions of future FTSO operating proceeds.
+
+No fixed yield, guaranteed income, scheduled or automatic reward, permanent entitlement to FTSO revenue, FTSO ownership, or automatic governance right is promised. Guardian eligibility, funding, distribution methods, frequency, and recipient selection remain under technical, economic, legal, security, and governance study.
+
+## 10. Roadmap
+
+The next stages are:
+
+1. continue Coston2 validation and partner-ready onboarding;
+2. expand deeper FXRP and FAssets experiences for evolutions, accessories, reservations, and campaigns;
+3. connect appropriate Mainnet FLEC utility and optional NFT progression after separate review;
+4. develop the technical and operational capability for the planned FLEC FTSO operation and finalize Guardian economics;
+5. explore additional Flare infrastructure, including Confidential Compute, only where it strengthens the product.
+
+Roadmap items have no guaranteed delivery date or participant entitlement.
+
+## 11. Deployments and Project Links
 
 | Deployment | Value |
 |---|---|
 | Network | Flare Testnet Coston2 |
-| Chain ID | `114` |
-| TFLEC Token | `0x2e3417ABC7b94276ac536CfD7Fa508adf507E311` |
-| TFLEC Reward Authorization Contract | `0xBf108BeA1f535DB1B77b7389BA86490e95fbce3c` |
-| OVO Genesis NFT Contract | `0xa99e55116a1807b7ad06b852e55bd21b9eb36fe1` |
-| OVO-to-Nest Progression Contract | `0x8381572B4e9EeB2fFb3a0836A0fF00237407440a` |
+| Chain ID | 114 |
+| TFLEC | 0x2e3417ABC7b94276ac536CfD7Fa508adf507E311 |
+| TFLEC Reward Authorization | 0xBf108BeA1f535DB1B77b7389BA86490e95fbce3c |
+| OVO Genesis | 0xa99e55116a1807b7ad06b852e55bd21b9eb36fe1 |
+| OVO-to-Nest | 0x8381572B4e9EeB2fFb3a0836A0fF00237407440a |
 
-## 12. Demo and Recommended Judge Setup
+Project links:
 
-The live application is available at [flareflec.xyz/hub](https://flareflec.xyz/hub). Beta credentials are provided privately to judges and selected testers and are not published in this repository.
+- Live application: https://flareflec.xyz/hub
+- DoraHacks: https://dorahacks.io/buidl/46281
+- Demo video: https://www.youtube.com/watch?v=zrfzX0v-cAo
+- Public documentation: https://github.com/FlareFlec/FLEC-Docs
+- Community: https://linktr.ee/FLAREFLEC
+- X: https://x.com/flareflec
 
-For the most stable evaluation experience, judges should use:
+## 12. Safety Notice
 
-- a desktop computer;
-- Google Chrome or Microsoft Edge;
-- the MetaMask browser extension, or
-- Bifrost Wallet through WalletConnect.
-
-Both wallet paths were physically tested. The browser voice tutor was validated on Chrome and Edge. Safari voice behavior has not been formally validated, and all educational content remains visually accessible without browser speech support.
-
-The mobile experience was also physically tested, but desktop is recommended so the complete journey, wallet prompts, and transaction confirmations are easier to observe.
-
-## 13. Testing and Early Validation
-
-Validation included:
-
-- physical testing with MetaMask;
-- physical testing with Bifrost Wallet;
-- desktop and mobile testing;
-- Spanish and English journey validation;
-- community testing during a FlareColombia event in Pereira, Colombia;
-- 25/25 focused final technical tests passed.
-
-Participant feedback was used to improve wallet instructions, mobile behavior, state restoration, the OVO Registry, and the Ranking.
-
-The community event included people taking early steps into blockchain and discovering the Flare ecosystem, providing practical feedback beyond an exclusively internal development environment.
-
-## 14. Final Deployed Demo Evidence
-
-The final deployed demo recorded:
-
-- 8 verified OVO journeys;
-- 8 educational entries eligible for the Ranking;
-- confirmed TFLEC reward claims;
-- confirmed OVO ownership;
-- confirmed OVO-to-Nest progression;
-- confirmed Proof of Participation restoration.
-
-These are verified demo journeys. They must not automatically be interpreted as eight unique commercial users or as evidence of a large-scale capacity test.
-
-The [demo video](https://www.youtube.com/watch?v=zrfzX0v-cAo) combines a complete product walkthrough with evidence from the FlareColombia community presentation in Pereira, Colombia.
-
-## 15. How FLEC Hub Helps Flare
-
-FLEC Hub provides seven verified ecosystem benefits:
-
-1. **Converts awareness into participation** by connecting education to voluntary testnet actions.
-2. **Expands Spanish-language accessibility** through a complete bilingual learning journey.
-3. **Reduces wallet friction and mistakes** by placing safety and clear instructions before actions.
-4. **Creates reusable onboarding infrastructure** for protocols, wallets, workshops, and community programs.
-5. **Supports measurable activation** through privacy-conscious aggregate signals.
-6. **Connects Flare with Spanish-speaking LATAM communities** through localized education and real community validation.
-7. **Produces better-prepared participants for Flare protocols** by teaching core concepts before deeper interactions.
-
-## 16. Optional NFT Progression
-
-NFTs are not required for foundational education. They are an optional progression layer that can represent:
-
-- identity;
-- progress;
-- recognition;
-- participation;
-- personalization;
-- verifiable educational history.
-
-The long-term progression concept is:
-
-**OVO → Nest → Feathers → Flight → Guardian**
-
-This layer is not described only as a collectible system. It is intended to make learning milestones and participation visible while preserving the distinction between education, identity, and commercial rights.
-
-Current Coston2 OVO assets do not automatically provide Mainnet NFTs, FLEC, rewards, ownership, campaign access, or commercial benefits.
-
-## 17. Mainnet Vision and FLEC Economy
-
-Coston2 is the current education and validation laboratory, not the final destination.
-
-The official FLEC token already exists on Flare Mainnet:
-
-`0xb71E9a49a3151484753eacF9513b6876C6BEa62b`
-
-Future FLEC utility may connect:
-
-- sponsored educational modules;
-- protocol campaigns;
-- Spanish localization;
-- audiovisual production;
-- protocol onboarding;
-- optional NFT progression;
-- NFT personalization;
-- community activations;
-- FLEC Hub services.
-
-This future model is B2B2C: ecosystem partners can fund education and activation, FLEC Hub can deliver localized infrastructure and services, and participants can access guided learning experiences.
-
-Partner-funded participant rewards must remain separate from FLEC Hub operating revenue and be governed by the terms of each campaign. This vision does not promise financial return, token price, conversion, redemption, or automatic rewards.
-
-## 18. Business Model and Sustainability
-
-Potential revenue streams may include:
-
-- sponsored educational modules;
-- protocol-specific onboarding;
-- localization;
-- audiovisual production;
-- ecosystem activations;
-- workshops;
-- recurring partnerships;
-- wallet onboarding services;
-- privacy-conscious aggregate reporting.
-
-The model is based on providing education, localization, onboarding, and activation services. Any participant reward pool would be separately defined and funded for the relevant campaign rather than treated as operating revenue.
-
-## 19. Future Roadmap
-
-The roadmap is organized as stages without fixed delivery dates:
-
-1. **Continuous Coston2 validation**
-2. **Protocol and partner modules**
-3. **FLEC utility on Mainnet**
-4. **Optional NFT progression on Mainnet**
-5. **Deeper Interoperable Asset journeys**
-6. **Possible future Confidential Compute exploration**
-7. **FLEC Flare Knowledge Search**
-8. **FTSO Infrastructure and Guardian Economy**
-
-FLEC intends to work toward the technical and operational capability required to become a reliable FTSO provider with community roots in Latin America and potentially one of the first operated from Colombia. This is a future operational objective, not a claim that FLEC currently operates an FTSO provider.
-
-Guardian is envisioned as an essential future identity, education, participation, and recognition layer around the intended FTSO operation and FLEC economy. The exact Guardian economic design remains under study.
-
-Guardian does not imply guaranteed rewards, guaranteed yield, ownership of the FTSO, ownership of FLEC Hub, mandatory delegation, automatic governance, or automatic campaign funds. Any Guardian reward or economic mechanism requires separate technical, economic, legal, and security review.
-
-## 20. Public Repository Scope
-
-FLEC-Docs contains public documentation and technical materials for judge and community review.
-
-It does not contain the complete private application source code. Private repository URLs, beta credentials, database credentials, secrets, private keys, and operational details are intentionally excluded.
-
-## 21. Project Links
-
-| Resource | Link |
-|---|---|
-| Live application | [https://flareflec.xyz/hub](https://flareflec.xyz/hub) |
-| DoraHacks submission | [https://dorahacks.io/buidl/46281](https://dorahacks.io/buidl/46281) |
-| Demo video | [https://www.youtube.com/watch?v=zrfzX0v-cAo](https://www.youtube.com/watch?v=zrfzX0v-cAo) |
-| Public documentation | [https://github.com/FlareFlec/FLEC-Docs](https://github.com/FlareFlec/FLEC-Docs) |
-| Community | [https://linktr.ee/FLAREFLEC](https://linktr.ee/FLAREFLEC) |
-| X | [https://x.com/flareflec](https://x.com/flareflec) |
-
-## 22. Safety and Testnet Notice
-
-- TFLEC and the current demo OVO assets operate only on Flare Testnet Coston2.
-- They have no monetary value.
-- TFLEC is independent from the official FLEC token on Flare Mainnet.
-- There is no conversion, parity, exchange, or redemption between TFLEC and FLEC.
-- Demo participation provides no automatic Mainnet rights.
-- No rewards or future benefits are guaranteed.
-- FLEC Hub never requests seed phrases or private keys.
-- Blockchain actions are voluntary and should be reviewed by the participant before approval.
+- TFLEC and the current demo NFT/progression contracts operate on Flare Testnet Coston2 and have no monetary value.
+- TFLEC is separate from the official FLEC token on Flare Mainnet. No parity, conversion, exchange, or redemption between them is promised.
+- Demo participation creates no automatic Mainnet right, financial return, reward, governance right, or entitlement.
+- Future Guardian benefits, if implemented, remain variable, discretionary, separately funded where applicable, and subject to further review.
+- FLEC Hub does not request seed phrases or private keys.
+- Blockchain actions are voluntary and should be reviewed by participants before approval.
 
 ---
 
