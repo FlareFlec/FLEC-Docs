@@ -2,6 +2,43 @@
 
 ## English
 
+### Current Development — Post-Summer Signal Workstreams
+
+FLEC is currently progressing through two parallel development workstreams following Flare Summer Signal 2026.
+
+#### Workstream A — FLEC Hub
+
+Continue:
+
+- Coston2 testing;
+- community beta testing;
+- wallet UX;
+- bilingual education for Spanish-speaking users worldwide;
+- functional test FXRP use;
+- OVO Genesis NFT testing;
+- OVO-to-Nest progression;
+- POP;
+- Registry;
+- Ranking;
+- additional educational and ecosystem integrations.
+
+#### Workstream B — FLEC Infrastructure
+
+Begin active development toward FTSO data-provider capabilities as part of a future FLEC-operated Flare Entity.
+
+**Initial environment:** Coston2.
+
+Initial focus:
+
+- requirements;
+- architecture;
+- test infrastructure;
+- monitoring;
+- reliability;
+- security;
+- automation;
+- operational validation.
+
 ### Phase 1 — Foundation, Token & Community Launch
 
 - Launch the FLEC website and public documentation
@@ -66,8 +103,8 @@
 - Expand FLEC as a long-term educational and community hub for Flare
 - Explore future interactive experiences connected to learning, participation, and digital identity
 - Evaluate long-term community sustainability and ecosystem growth opportunities
-- Assess the future possibility of participating in the Flare Time Series Oracle (FTSO), if technically, operationally, economically, and legally viable
-- Pursue the long-term ambition of helping establish one of the first community-led FTSO initiatives operating from LATAM, if feasible
+- Develop and validate FTSO data-provider capabilities through staged architecture, Coston2 testing and operational preparation, as part of FLEC’s longer-term Flare Entity infrastructure path
+- Consider production participation only after successful testnet validation and review of technical readiness, operational readiness, security, economics and legal requirements
 - Explore future community governance only after appropriate security, transparency, participation, and operational structures are established
 
 ---
@@ -83,6 +120,43 @@ Nothing in this roadmap should be interpreted as a guarantee of delivery, timing
 ---
 
 ## Español
+
+### Desarrollo Actual — Líneas de Trabajo Post-Summer Signal
+
+FLEC avanza actualmente mediante dos líneas de desarrollo paralelas después de Flare Summer Signal 2026.
+
+#### Línea A — FLEC Hub
+
+Continuar con:
+
+- pruebas en Coston2;
+- pruebas comunitarias;
+- experiencia de wallets;
+- educación bilingüe para usuarios hispanohablantes de todo el mundo;
+- uso funcional de test FXRP;
+- pruebas del OVO Genesis NFT;
+- progresión OVO-to-Nest;
+- POP;
+- Registro;
+- Ranking;
+- futuras integraciones educativas.
+
+#### Línea B — Infraestructura FLEC
+
+Comenzar el desarrollo activo de capacidades de proveedor de datos FTSO como parte de una futura Flare Entity operada por FLEC.
+
+**Entorno inicial:** Coston2.
+
+Enfoque inicial:
+
+- requisitos;
+- arquitectura;
+- infraestructura de prueba;
+- monitoreo;
+- confiabilidad;
+- seguridad;
+- automatización;
+- validación operativa.
 
 ### Fase 1 — Fundación, Token y Lanzamiento de la Comunidad
 
@@ -148,8 +222,8 @@ Nothing in this roadmap should be interpreted as a guarantee of delivery, timing
 - Expandir FLEC como un hub educativo y comunitario de largo plazo para Flare
 - Explorar futuras experiencias interactivas conectadas con aprendizaje, participación e identidad digital
 - Evaluar la sostenibilidad comunitaria y las oportunidades de crecimiento del ecosistema a largo plazo
-- Analizar la posibilidad futura de participar en el Flare Time Series Oracle (FTSO), siempre que sea técnica, operativa, económica y legalmente viable
-- Impulsar la ambición de ayudar a establecer una de las primeras iniciativas FTSO lideradas por la comunidad y operadas desde LATAM, si resulta factible
+- Desarrollar y validar capacidades de proveedor de datos FTSO mediante arquitectura por etapas, pruebas en Coston2 y preparación operativa, como parte de la ruta de infraestructura de una futura Flare Entity operada por FLEC
+- Considerar la participación en producción únicamente después de una validación exitosa en testnet y de revisar la preparación técnica y operativa, la seguridad, la viabilidad económica y los requisitos legales
 - Explorar una futura gobernanza comunitaria únicamente cuando existan estructuras adecuadas de seguridad, transparencia, participación y operación
 
 ---
@@ -161,4 +235,3 @@ Este roadmap refleja la visión actual del ecosistema FLEC.
 Las funcionalidades, prioridades, utilidad del token, experiencias NFT, objetivos de infraestructura, alianzas y rutas de desarrollo pueden evolucionar con el tiempo a medida que crezcan el proyecto, la comunidad, la tecnología y el ecosistema Flare.
 
 Nada en este roadmap debe interpretarse como garantía de entrega, tiempos, retorno financiero, valor del token, valor de NFTs, recompensas, implementación de infraestructura, alianzas o funcionalidades futuras.
-
