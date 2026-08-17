@@ -24,7 +24,7 @@ Continue:
 
 #### Workstream B — FLEC Infrastructure
 
-Begin active development toward FTSO data-provider capabilities as part of a future FLEC-operated Flare Entity.
+FLEC is actively beginning development toward FTSO data-provider capabilities as part of a future FLEC-operated Flare Entity.
 
 **Initial environment:** Coston2.
 
@@ -143,7 +143,7 @@ Continuar con:
 
 #### Línea B — Infraestructura FLEC
 
-Comenzar el desarrollo activo de capacidades de proveedor de datos FTSO como parte de una futura Flare Entity operada por FLEC.
+FLEC está iniciando activamente el desarrollo de capacidades de proveedor de datos FTSO como parte de una futura Flare Entity operada por FLEC.
 
 **Entorno inicial:** Coston2.
 

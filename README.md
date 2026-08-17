@@ -81,7 +81,7 @@ FLEC Hub remains active as a Coston2 education, onboarding and testing environme
 - continued on-chain verification;
 - UX improvements based on tester feedback.
 
-The current Hub supports functional test FXRP use and OVO Genesis NFT testing and OVO-to-Nest progression on Coston2. It does not implement the complete production FAssets minting and redemption lifecycle.
+The current Hub supports functional test FXRP use, OVO Genesis NFT testing, and OVO-to-Nest progression on Coston2. It does not implement the complete production FAssets minting and redemption lifecycle.
 
 ### Workstream B — FLEC Infrastructure
 
