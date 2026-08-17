@@ -2,15 +2,15 @@
 
 FLEC is building a Spanish-first onboarding and educational layer designed to accelerate long-term adoption across the Flare ecosystem.
 
-FLEC is a community-driven initiative focused on helping Spanish-speaking users across LATAM discover Flare, understand its technology, and confidently participate in the ecosystem through education, guided onboarding, and practical learning experiences.
+FLEC is a community-driven initiative rooted in Latin America and Colombia and built to help Spanish-speaking users worldwide discover Flare, understand its technology, and confidently participate in the ecosystem through education, guided onboarding, and practical learning experiences.
 
 Our long-term vision is to build a Spanish-first community and educational hub for Flare, combining education, safer onboarding, wallet security, community programs, future NFT experiences, ecosystem discovery, and practical pathways for users to engage with projects across the network.
 
 ## Why FLEC Exists
 
-Spanish-speaking users represent one of the largest untapped adoption opportunities for the Flare ecosystem.
+Spanish-speaking users worldwide represent one of the largest untapped adoption opportunities for the Flare ecosystem.
 
-While new protocols and decentralized applications continue to expand, many potential users still face barriers such as language, onboarding complexity, wallet security concerns, and limited educational resources designed specifically for LATAM.
+While new protocols and decentralized applications continue to expand, many potential users still face barriers such as language, onboarding complexity, wallet security concerns, and limited educational resources created for Spanish-speaking communities.
 
 FLEC was created to reduce those barriers through a Spanish-first educational experience that helps users understand, explore, and confidently interact with the Flare ecosystem.
 
@@ -27,7 +27,7 @@ This approach benefits both new users and ecosystem builders by making adoption 
 ## Core Pillars
 
 - **Flare** — Built within the Flare ecosystem.
-- **LATAM** — Rooted in Latin America and open to a global audience.
+- **LATAM** — Rooted in Latin America and open to Spanish-speaking users worldwide.
 - **Evolution** — Focused on education, growth, innovation, and adaptation.
 - **Community** — Driven by participation, collaboration, and shared contributions.
 
@@ -37,10 +37,14 @@ This approach benefits both new users and ecosystem builders by making adoption 
 - [Tokenomics](TOKENOMICS.md)
 - [Roadmap](ROADMAP.md)
 - [FAQ](FAQ.md)
+- [Public hackathon technical record](HACKATHON.md)
+- [FTSO development](FTSO.md)
 
 ## Official Links
 
 - Website: https://flareflec.xyz
+- Live application: https://flareflec.xyz/hub
+- DoraHacks submission: https://dorahacks.io/buidl/46281
 - X: https://x.com/flareflec
 - Linktree: https://linktr.ee/FLAREFLEC
 
@@ -54,24 +58,52 @@ Contract:
 
 The token is intended to support future community participation, educational initiatives, ecosystem experiences, and long-term development. No financial return or future benefit is promised.
 
-## Current Focus
+## Current Development — Post-Summer Signal Workstreams
 
-FLEC is actively building its first production-oriented educational platform as part of the Flare Hackathon 2026.
+FLEC Hub was built, deployed and community-tested during Flare Summer Signal 2026.
 
-Current priorities include:
+The hackathon represented FLEC's first deployed product milestone, not the end of development. Development now continues through two active workstreams.
 
-- Spanish-first education;
-- safer onboarding;
-- community growth;
-- ecosystem discovery;
-- future NFT experiences;
-- future collaboration with projects across Flare.
+### Workstream A — FLEC Hub / Coston2
 
-## Hackathon Vision
+FLEC Hub remains active as a Coston2 education, onboarding and testing environment. Current continued work includes:
 
-The Flare Hackathon represents the first public milestone in FLEC's long-term mission.
+- ongoing community beta testing;
+- bilingual education;
+- wallet safety and onboarding UX;
+- MetaMask and Bifrost Wallet testing;
+- Coston2 asset experimentation;
+- functional test FXRP use inside the existing application journey;
+- OVO Genesis NFT testing;
+- OVO-to-Nest progression;
+- POP restoration;
+- Registry and Ranking experimentation;
+- continued on-chain verification;
+- UX improvements based on tester feedback.
 
-Our goal extends beyond delivering a functional demo. We are building the foundation of a scalable onboarding experience capable of helping Spanish-speaking communities discover, understand, and confidently participate in the Flare ecosystem for years to come.
+The current Hub supports functional test FXRP use, OVO Genesis NFT testing, and OVO-to-Nest progression on Coston2. It does not implement the complete production FAssets minting and redemption lifecycle.
+
+### Workstream B — FLEC Infrastructure
+
+FLEC is beginning active development toward FTSO data-provider capabilities as part of a future FLEC-operated Flare Entity, starting on Coston2.
+
+The initial workstream includes:
+
+- architecture research;
+- official Flare Entity requirements;
+- FTSO data-provider architecture;
+- validator/entity requirements;
+- infrastructure planning;
+- monitoring, reliability and uptime;
+- operational security;
+- automation and observability;
+- data-provider responsibilities;
+- recovery procedures;
+- Coston2 implementation planning.
+
+Coston2 is the initial development and validation environment. Active development has begun at the architecture and requirements stage; production FTSO operation is not yet live, Mainnet infrastructure is not deployed, and no launch date is promised.
+
+See [FLEC FTSO Data-Provider Development](FTSO.md) for the staged infrastructure path and public evidence policy.
 
 ## Disclaimer
 
@@ -83,4 +115,4 @@ Nothing contained in this repository should be interpreted as financial, investm
 
 ---
 
-A LATAM community initiative guided by FlareColombia, created by CryptoView.
+A Spanish-first community initiative with roots in Latin America and Colombia, guided by FlareColombia and created by CryptoView.
